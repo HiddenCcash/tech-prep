@@ -1,0 +1,11 @@
+.vscode
+mandliya
+
+# my own video recordings
+*.mov
+*.m4a
+udemy-technical-interview
+*.pyc
+coursera
+*.pdf
+*.epub
